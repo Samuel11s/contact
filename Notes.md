@@ -16,4 +16,5 @@ https://github.com/Samuel11s/contact.
     - Then I opened the _GitHub Desktop_, I cloned my repository _"contact"_, and I opened that repository in _Visual Studio Code_;
     - I created the "My readme MDfile" and my "Notes MDfile" and i updated them;
     - I clicked "Commit" on the "Source control" in Visual Studio Code for saving changes
+    - I installed "Live Server" extention of visual studio code and I started It;
 
