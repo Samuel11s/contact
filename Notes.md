@@ -17,4 +17,5 @@ https://github.com/Samuel11s/contact.
     - I created the "My readme MDfile" and my "Notes MDfile" and i updated them;
     - I clicked "Commit" on the "Source control" in Visual Studio Code for saving changes
     - I installed "Live Server" extention of visual studio code and I started It;
+    - I finished to write my whole html page and I uploaded my assets(My picture and my icon:Drag/Drop) into VScode
 
